@@ -14,6 +14,6 @@ git clone https://github.com/Hridoy-Ahmed0/MR-FREE
 
 cd MR-FREE
 
-python HRIDOY-RANDOM.py
+python MR-HRIDOY.py
 
 =[💔]= 𝙏𝙃𝘼𝙉𝙆𝙎 𝘿𝙀𝘼𝙍 𝙐𝙎𝙀𝙍 =[💔]=
